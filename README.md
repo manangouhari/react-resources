@@ -1,4 +1,4 @@
-# react-resources
+# ReactJS Resources
 A collection of free react learning resources
 Feel free to add more resources to the list an open up a PR.
 
