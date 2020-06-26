@@ -1,5 +1,6 @@
 # ReactJS Resources
-A collection of free react learning resources
+A collection of free react learning resources.
+
 Feel free to add more resources to the list an open up a PR.
 
 1. [The Beginner's Guide to React by Kent C. Dodds on egghead.io](https://egghead.io/courses/the-beginner-s-guide-to-react)
