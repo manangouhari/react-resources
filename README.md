@@ -12,3 +12,4 @@ Feel free to add more resources to the list an open up a PR.
 7. [React Router tutorial by DevEd on Youtube](https://www.youtube.com/watch?v=Law7wfdg_ls)
 8. [React Redux tutorial by DevEd on Youtube](https://www.youtube.com/watch?v=CVpUuw9XSjY)
 9. [Redux tutorial by Programming with Mosh on Youtube](https://www.youtube.com/watch?v=poQXNp9ItL4)
+10. [Build an expense tracker in React using Context API by Traversy Media on Youtube](https://www.youtube.com/watch?v=XuFDcZABiDQ)
