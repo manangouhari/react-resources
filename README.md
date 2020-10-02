@@ -13,3 +13,7 @@ Feel free to add more resources to the list an open up a PR.
 8. [React Hooks Playlist by Ben Awad on Youtube](https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM)
 9. [Redux tutorial by Programming with Mosh on Youtube](https://www.youtube.com/watch?v=poQXNp9ItL4)
 10. [Build an expense tracker in React using Context API by Traversy Media on Youtube](https://www.youtube.com/watch?v=XuFDcZABiDQ)
+11. [Learn React In 30 Minutes by Web Dev Simplified](https://www.youtube.com/watch?v=hQAHSlTtcmY&feature=youtu.be)
+12. [Learn React JS - Full Course for Beginners by freeCodeCamp.org ](https://www.youtube.com/watch?v=DLX62G4lc44&feature=youtu.be)
+13. [Build a COVID-19 Tracker Application - React JS Project by JavaScript Mastery](https://www.youtube.com/watch?v=khJlrj3Y6Ls&feature=youtu.be)
+14. [Build A Todo App With REACT | React Project For Beginners by Dev Ed](https://www.youtube.com/watch?v=pCA4qpQDZD8&feature=youtu.be)
