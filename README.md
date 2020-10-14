@@ -17,3 +17,4 @@ Feel free to add more resources to the list an open up a PR.
 12. [Learn React JS - Full Course for Beginners by freeCodeCamp.org ](https://www.youtube.com/watch?v=DLX62G4lc44&feature=youtu.be)
 13. [Build a COVID-19 Tracker Application - React JS Project by JavaScript Mastery](https://www.youtube.com/watch?v=khJlrj3Y6Ls&feature=youtu.be)
 14. [Build A Todo App With REACT | React Project For Beginners by Dev Ed](https://www.youtube.com/watch?v=pCA4qpQDZD8&feature=youtu.be)
+15. [BOOK: Fullstack React: The Complete Guide to ReactJS and Friends](https://pdfhost.io/v/VnUri1YPC_Fullstack_React.pdf)
