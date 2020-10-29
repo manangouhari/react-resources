@@ -19,3 +19,4 @@ Feel free to add more resources to the list an open up a PR.
 14. [Build A Todo App With REACT | React Project For Beginners by Dev Ed](https://www.youtube.com/watch?v=pCA4qpQDZD8&feature=youtu.be)
 15. [BOOK: Fullstack React: The Complete Guide to ReactJS and Friends](https://pdfhost.io/v/VnUri1YPC_Fullstack_React.pdf)
 16. [BOOK: ReactJS notes for Professionals](https://pdfhost.io/v/59dcVpQO~_React_JS_Notes_for_Professionals.pdf)
+17. [Learn React for free by Bob ziroll in Scrimba](https://scrimba.com/learn/learnreact)
